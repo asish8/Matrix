@@ -1,0 +1,427 @@
+,"thing_id","thing_name","clep_id","thing_latitude","thing_longitude","Client Name","Partner Name","City"
+"0","1152","PNB Bank Roza Yakubpur","640","28.602023","77.4648742","Unicel Autotech","Phoenix Robotix",
+"1","1153","PNB Bank Vijay Nagar","640","28.6459001","77.4180561","Unicel Autotech","Phoenix Robotix","Ghaziabad"
+"2","1154","PNB Bank Modi Nagar","640","28.85906","77.5930909","Unicel Autotech","Phoenix Robotix",
+"3","1207","SES Lusaka Office","674","-15.508731","28.26207","Speciality Emergency Services (SES)","Renovatio Ingenuity Ltd","Lusaka"
+"4","5004","Hostel Auditorium","765","20.350388","85.80624","Silicon Institute of Technology","Phoenix Robotix","Bhubaneswar"
+"5","5005","Administrative Building","765","20.350388","85.80624","Silicon Institute of Technology","Phoenix Robotix","Bhubaneswar"
+"6","5016","Cafeteria Computer Science","765","20.350388","85.80624","Silicon Institute of Technology","Phoenix Robotix","Bhubaneswar"
+"7","5056","Head Office","805","28.669157","77.453758","Rishabh Engineering","Phoenix Robotix","Ghaziabad"
+"8","5059","JJ7X39IZ DG","751","25.893309","93.719864","Arham Plastic Industries","Vivira Projects Pvt. Ltd.","Dimapur"
+"9","5063","Jayceepowers_Unit_1","812","0","0","JAYCEE PUNCHING SOLUTION","Phoenix Robotix",
+"10","5064","Munali Mall","814","-15.371953","28.344641","Time Projects Property (Zambia) Ltd","Renovatio Ingenuity Ltd","Lusaka"
+"11","5075","PWC","814","-15.395124","28.321424","Time Projects Property (Zambia) Ltd","Renovatio Ingenuity Ltd","Lusaka"
+"12","5076","Kabulonga Centro Mall","814","-15.420039","28.342101","Time Projects Property (Zambia) Ltd","Renovatio Ingenuity Ltd","Lusaka"
+"13","5077","Factory Side","822","23.2496552","77.4955377","Capital Powers","Powerlux","Bhopal"
+"14","5081","Kabwata Mall","814","-15.435587","28.308224","Time Projects Property (Zambia) Ltd","Renovatio Ingenuity Ltd","Lusaka"
+"15","5098","SES Kitwe ","674","-12.789809","28.243187","Speciality Emergency Services (SES)","Renovatio Ingenuity Ltd","Kitwe"
+"16","5100","Jayceepowers_Unit_2","812","28.218592","77.294958","JAYCEE PUNCHING SOLUTION","Phoenix Robotix",
+"17","5102","DG Monitoring Demo","845","23.32031058","85.29784513","DG Monitoring Demo","Speedotrack GPS Private Limited",
+"18","5113","Parvatizone_Pune","895","18.501905","73.847242","Vtech Power System","Kohler Power India","Pune"
+"19","5115","Pandit_Javedkar_building","895","18.5160552","73.8331062","Vtech Power System","Kohler Power India","Pune"
+"20","5152","DG Set - 1","935","6.62512","3.34316","DG Demo - 1","Eonsfleet Prosolutions Ltd.",
+"21","5156","Omega Industries","822","23.248306","77.488952","Capital Powers","Powerlux","Bhopal"
+"22","5157","Chirundu","814","-16.033473","28.844969","Time Projects Property (Zambia) Ltd","Renovatio Ingenuity Ltd",
+"23","5168","Technoton Demo","954","0","0","Demo Customer","Technoton",
+"24","5176","Training Center","960","-15.428465","28.345713","Stanbic Bank","Renovatio Ingenuity Ltd","Lusaka"
+"25","5213","Unicel Autotech office 01","640","0","0","Unicel Autotech","Phoenix Robotix",
+"26","7003","Head Office","960","-15.401151","28.308324","Stanbic Bank","Renovatio Ingenuity Ltd","Lusaka"
+"27","7012","Digibay_Ojuelegba","1000","6.51054","3.3639","Digibay Limited","Eonsfleet Prosolutions Ltd.",
+"28","7087","Solwezi Town DG Set","1016","-12.186798","26.431054","Avantech Limited","Renovatio Ingenuity Ltd",
+"29","7093","Demo DG","1020","18.34648","73.86304","Shyam Global Demo","Shyam Global Technoventures",
+"30","7112","Supreme Power Demo, Kalyani","961","22.9348154","88.5033508","Supreme Power System","Phoenix Robotix",
+"31","7113","DG Set - 1 ","1035","30.78857","76.49821","RSC Generators","Sunrise Power Technologies",
+"32","7148","DG","1051","17.52324","78.4563","Power Tata demo","Powerlite","Hyderabad"
+"33","7149","GMDG","1052","0","0","G M Trading Co","Phoenix Robotix",
+"34","7177","GMDG","1050","0","0","Powerlite","Phoenix Robotix",
+"35","7188","DG 2","1056","17.52324","78.4563","Power Cummins Demo","Powerlite","Hyderabad"
+"36","7192","Test DG","1058","0","28.56939","Perfect Generator Technologies Pvt Ltd","Perfect Generator Technologies",
+"37","7199","TPM","1063","12.911486","80.104096","The Pentecostal Mission","GMMCO","Tambaram"
+"38","7208","Demo","1070","0","0","Aishwarya Sales & Services","Phoenix Robotix",
+"39","7226","DG 1","1072","28.4889797","77.08987899","Auraine Botanicals Pvt Ltd","GSP Power Projects","Gurugram"
+"40","7232","DJA(DG6)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"41","7236","HZR(DG7)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"42","7238","HZR(DG8)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"43","7239","DJA(DG5)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"44","7242","RDC Rajnagar DG","1059","28.67469907","77.44334727","Netway Internet","Perfect Generator Technologies","Ghaziabad"
+"45","7245","MGE(DG3)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"46","7246","DG 1, Accra","1085","5.561658","-0.2250276","Glo Mobile Ghana Ltd","Amossys Consulting Services Pvt Ltd","Accra"
+"47","7247","DIZ(DG12)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"48","7249","MGE(DG4)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"49","7250","DIZ(DG11)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"50","7252","DG 1","1088","0","0","SR Centre","Dishaa Power",
+"51","7255","dg set 3","1089","19.350367","75.219376","Wadhava Fashion Shevgaon","United Gensets Pvt Ltd",
+"52","7261","Asset 11","1074","0","0","Sales Demo","Phoenix Robotix",
+"53","7262","Asset 10","1074","0","0","Sales Demo","Phoenix Robotix",
+"54","7263","Asset 9","1074","0","0","Sales Demo","Phoenix Robotix",
+"55","7264","Asset 8","1074","0","0","Sales Demo","Phoenix Robotix",
+"56","7265","Asset 7","1074","0","0","Sales Demo","Phoenix Robotix",
+"57","7266","Asset 6","1074","0","0","Sales Demo","Phoenix Robotix",
+"58","7267","Asset 5","1074","0","0","Sales Demo","Phoenix Robotix",
+"59","7268","Asset 4","1074","0","0","Sales Demo","Phoenix Robotix",
+"60","7269","Asset 3","1074","0","0","Sales Demo","Phoenix Robotix",
+"61","7270","Asset 2","1074","0","0","Sales Demo","Phoenix Robotix",
+"62","7272","Asset 12 AS","1074","0","0","Sales Demo","Phoenix Robotix",
+"63","7273","DHV(DG1)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"64","7274","DHV(DG2)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"65","7275","MGV(DG10)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"66","7276","MGV(DG9)","1077","27.3572","95.3223","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"67","7279","Farukh Nagar DG","1094","28.48199561","76.81257536","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies","Gurugram"
+"68","7280","Asset 1","1074","0","0","Sales Demo","Phoenix Robotix",
+"69","7281","Demo DG","1067","28.313664","77.312113","Mrm Procom Demo","MRM PROCOM",
+"70","7282","JZB00323","1097","13.0016","80.2017","GMMCO Demo Customer","GMMCO","St.Thomas Mount-Pallavaram Cantonment Board"
+"71","7284","Demo DG","1083","0","0","DEMO","Iobotech",
+"72","7286","Ikeja DG1","1100","0","0","MDS Logistics","Eonsfleet Prosolutions Ltd.",
+"73","7287","Electrops_asset","1074","0","0","Sales Demo","Phoenix Robotix",
+"74","7289","DCB Bank Moradabad","1102","28.83338617","78.7448423","Vishwas Electricals","Perfect Generator Technologies","Moradabad"
+"75","7290","62.5 KVA","1102","0","0","Vishwas Electricals","Perfect Generator Technologies",
+"76","7291","PSA Oxygen Generation Plant DG","1186","20.86466797","74.76249596","OGP Sub District Hospital","United Gensets Pvt Ltd","Dhule"
+"77","7296","Aligarh SIte ","1106","27.88410205","78.07823911","Chandrapal Shailani Site","Perfect Generator Technologies","Aligarh"
+"78","7302","DCB Bank Lucknow","1102","26.86881084","80.9983182","Vishwas Electricals","Perfect Generator Technologies","Lucknow"
+"79","7303","Test thing 05-10","1074","0","0","Sales Demo","Phoenix Robotix",
+"80","7304","DEMO THING","1107","13.0261794","77.6261258","End Customer","Energia","Bengaluru"
+"81","7305","Rental DG 0","1110","0","0","Genesis","Phoenix Robotix",
+"82","7306","Rental DG 1","1110","0","0","Genesis","Phoenix Robotix",
+"83","7307","PKG Satyam Office","1111","15.5956468","73.81985226","PKG SELF USE","Pai Kane Group",
+"84","7309","load-test","1074","0","0","Sales Demo","Phoenix Robotix",
+"85","7310","load-test2","1074","0","0","Sales Demo","Phoenix Robotix",
+"86","7311","PKG Tuem Factory","1111","16.53614521","73.66124465","PKG SELF USE","Pai Kane Group",
+"87","7312","Rental Demo DG","1050","0","0","Powerlite","Phoenix Robotix",
+"88","7316","Rental Test","1050","0","0","Powerlite","Phoenix Robotix",
+"89","7317","ELM-125","1116","17.445323","78.5635674","Elmot Unit-1","Elmot Alternators","Hyderabad"
+"90","7318","Unit 2 Demo DG","1117","17.445323","78.5635674","Elmot Unit-2","Elmot Alternators","Hyderabad"
+"91","7319","Rental Dg -11th Oct","1050","0","0","Powerlite","Phoenix Robotix",
+"92","7320","Demo Rental-11/10/21","1110","0","0","Genesis","Phoenix Robotix",
+"93","7321","Sumit Juneja Ji","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"94","7334","MDEM202973","1122","0","0","Sv Engineering","Ojus Power",
+"95","7335","DCB Bank Bachcha Park, Meerut","1102","28.98639075","77.70942694","Vishwas Electricals","Perfect Generator Technologies","Meerut"
+"96","7337","Production Factory","1127","23.03209885","72.56978302","Radiant Power Demo","Radiant Power Projects","Ahmedabad"
+"97","7338","Demo Factory Site","1127","23.03233581","72.56956845","Radiant Power Demo","Radiant Power Projects","Ahmedabad"
+"98","7339","Factory Site Demo","1125","32.075528","75.619498","Sanjay Diesels Demo","Sanjay Diesels",
+"99","7340","Exhibition DG","1128","12.695416","77.8809","suresh","Ojus Power",
+"100","7341","Fidelity FB0002","1129","6.434326667","3.443813333","Starsight Energy","Eonsfleet Prosolutions Ltd.",
+"101","7342","FCMB FC0001","1129","6.494983333","3.357615","Starsight Energy","Eonsfleet Prosolutions Ltd.",
+"102","7359","Factory Site Demo","1133","0","0","Factory Site","Gangadhar Industries",
+"103","7360","DCB Bank JM Road","1136","18.52103977","73.84468038","DCB Bank","Perennial Technologies","Pune"
+"104","7362","DCB bank RG College","1102","28.98642829","77.7094484","Vishwas Electricals","Perfect Generator Technologies","Meerut"
+"105","7365","DCB Bank Ambala Road Saharanpur","1102","30.36384563","76.84786026","Vishwas Electricals","Perfect Generator Technologies","Ambala"
+"106","7366","DCB Bank Muzaffarnagar","1102","29.46823","77.70507","Vishwas Electricals","Perfect Generator Technologies","Muzaffarnagar"
+"107","7369","Mahesh Demo","1075","0","0","DG Demo Sales","Sales Demo",
+"108","7370","Ganga Acropolis, Baner","1194","18.55696101","73.76325821","Single DG Demo Customer","Mahindra Powerol","Pune"
+"109","7371","K Square Baner","1141","18.560978","73.783463","Mahindra Demo Site","Mahindra Powerol","Pune"
+"110","7375","MDS Ibadan","1100","7.39738","3.96279","MDS Logistics","Eonsfleet Prosolutions Ltd.",
+"111","7377","MHEL DG 1","1141","18.72838062","73.80972853","Mahindra Demo Site","Mahindra Powerol",
+"112","7378","MHEL DG 2","1141","18.72858384","73.80972853","Mahindra Demo Site","Mahindra Powerol",
+"113","7379","DCB Bank Saharanpur","1102","29.98443321","77.53342133","Vishwas Electricals","Perfect Generator Technologies","Saharanpur"
+"114","7380","DG-25KVA","1143","17.422789","78.2496408","Mr. MURALI BOLLU","Kohler Power India",
+"115","7385","DG Set 1","1151","6.4582","3.50999","James Pinnock Estate","Eonsfleet Prosolutions Ltd.",
+"116","7386","DG Set 2","1151","6.4582","3.50999","James Pinnock Estate","Eonsfleet Prosolutions Ltd.",
+"117","7387","OGP Vaijapur Aurangabad","1186","19.9257","74.7285","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"118","7388","OGP Sillod Aurangabad","1186","20.3079","75.6528","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"119","7389","2000 L Tank","1151","0","0","James Pinnock Estate","Eonsfleet Prosolutions Ltd.",
+"120","7390","33000 L Tank","1151","0","0","James Pinnock Estate","Eonsfleet Prosolutions Ltd.",
+"121","7391","Remote Monitoring Device","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"122","7392","RMS (3285)","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"123","7393","KA51-MN.4773..62.5 KVA","1156","0","0","Ashik Mobile Generators","Ojus Power",
+"124","7394","KA 51 MP 3467- 62.5 KVA","1156","0","0","Ashik Mobile Generators","Ojus Power",
+"125","7395","DCB Bank Ltd","1157","23.3699","85.32528","M/s Goodwill Enterprise/DEB Enterprise","Genset India","Ranchi"
+"126","7396","RMS Unit 3","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"127","7398","62.5 KVA Chandigarh","1159","30.73683323","76.74670282","Jeevan Sir","Perfect Generator Technologies",
+"128","7399","200 KVA Chandigarh","1159","30.73594795","76.7690188","Jeevan Sir","Perfect Generator Technologies",
+"129","7400","DEMO DG 2","1150","22.5520035","88.2317619","Amaze Demo Customer","Amaze Power",
+"130","7401","8598-Residency Road- SBI","1163","12.97321","77.60847","MPS","Murari Power","Bengaluru"
+"131","7402","17734 - Kothanur","1163","13.063631","77.648796","MPS","Murari Power","Bengaluru"
+"132","7403","40920 - Sathanur","1163","13.123743","77.63884","MPS","Murari Power","Bengaluru"
+"133","7404","70835 - Hormavu Main","1163","13.027689","77.662299","MPS","Murari Power","Bengaluru"
+"134","7405","Nestun","1112","0","0","Genservice","Genesis",
+"135","7406","71130-XIME","1163","12.84773","77.6761874","MPS","Murari Power",
+"136","7407","Bareilly","1165","28.36752704","79.42983283","Groundnut Enterprises","Perfect Generator Technologies","Bareilly"
+"137","7408","CUMINS 62.5KVA-PSO600 DG NO.14","1171","22.3318","73.144989","Maruti","Maruti Hiring","Vadodara"
+"138","7409","mahindra 35 kva GC1211  DG NO.60","1171","22.33181","73.14499","Maruti","Maruti Hiring","Vadodara"
+"139","7413","Agra (Hari parvat)","1102","27.19690615","78.00171684","Vishwas Electricals","Perfect Generator Technologies","Agra"
+"140","7415","cummins 1250 kva pcc 3.3 DG NO.22","1171","0","0","Maruti","Maruti Hiring",
+"141","7417","cat 500 kva ECMP 4.2 DG NO.70","1171","22.8","72.81","Maruti","Maruti Hiring",
+"142","7418","TATA 62.5 KVA DSE 4520  DG NO.42","1171","22.63","72.92","Maruti","Maruti Hiring",
+"143","7419","Grofers Delhi","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"144","7422","Aligarh","1102","27.91275614","78.07940543","Vishwas Electricals","Perfect Generator Technologies","Aligarh"
+"145","7427","Grofers, Malviya Nagar, Delhi","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"146","7431","NSL DG1","1177","0","0","Nuziveedu Seeds Ltd","Kohler Power India",
+"147","7432","NSL DG2","1177","0","0","Nuziveedu Seeds Ltd","Kohler Power India",
+"148","7433","Bareilly","1102","28.39448567","79.42811622","Vishwas Electricals","Perfect Generator Technologies","Bareilly"
+"149","7434","Marathahalli Chaayos","1163","12.952013","77.701015","MPS","Murari Power","Bengaluru"
+"150","7435","Dehradun","1102","30.32496528","78.02605771","Vishwas Electricals","Perfect Generator Technologies","Dehradun"
+"151","7436","15kVA - 1 phase - Gas Genset","1141","18.72880016","73.80965365","Mahindra Demo Site","Mahindra Powerol",
+"152","7437","Mutanda Layers DG Set","1016","-12.438276","26.204463","Avantech Limited","Renovatio Ingenuity Ltd",
+"153","7438","Mutanda Maize Silo 1 DG Set","1016","-12.436792","26.206375","Avantech Limited","Renovatio Ingenuity Ltd",
+"154","7439","Nokha","1102","27.56100952","73.46671503","Vishwas Electricals","Perfect Generator Technologies",
+"155","7441","BYJU's Nasik ","1178","19.99056188","73.78017908","BYJU's","Perfect Generator Technologies","Nashik"
+"156","7442","Ujjain MP","1102","23.17403321","75.78691724","Vishwas Electricals","Perfect Generator Technologies","Ujjain"
+"157","7444","40 KVA","1178","0","0","BYJU's","Perfect Generator Technologies",
+"158","7445","DCB Bank Gandhi Nagar Delhi","1102","28.659044","77.276655","Vishwas Electricals","Perfect Generator Technologies","Delhi"
+"159","7446","Mutanda Boss's Residence DG Set","1016","-12.44097629","26.1938575","Avantech Limited","Renovatio Ingenuity Ltd",
+"160","7447","Mutanda Maize Silo 2 DG Set","1016","-12.436803","26.206552","Avantech Limited","Renovatio Ingenuity Ltd",
+"161","7448","Mutanda Workers DG Set","1016","-12.45180569","26.20443156","Avantech Limited","Renovatio Ingenuity Ltd",
+"162","7449","Mutanda Maize Silo 3 DG Set","1016","-12.436874","26.207099","Avantech Limited","Renovatio Ingenuity Ltd",
+"163","7465","Creseada","1179","6.546904486","3.337843239","Creseada International Ltd","Eonsfleet Prosolutions Ltd.",
+"164","7466","Unicel Autotech Office 2","640","0","0","Unicel Autotech","Phoenix Robotix",
+"165","7467","Unicel Autotech Office 3","640","0","0","Unicel Autotech","Phoenix Robotix",
+"166","7469","Patany Nagar TATA 1mG","1163","17.444593","78.480467","MPS","Murari Power",
+"167","7470","Zuarinagar Goa Pharmeasy","1163","15.380206","73.873229","MPS","Murari Power",
+"168","7471","Jakson office Demo","1080","0","0","Jakson Limited Office","Jakson Limited",
+"169","7507","Pankha Road Delhi","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"170","7516","Gargi Memorial Institute DG","1183","22.378163","88.440367","Gargi Memorial Institute","Manish Industrial Corporation",
+"171","7517","Banner Chaayos","1163","18.559561","73.790188","MPS","Murari Power","Pune"
+"172","7518","1811A49382","1185","19.32350585","84.8130654","Jharanai Dairy","Sistema.bio",
+"173","7519","Hadapsar Pharmeasy","1163","18.506567","73.921753","MPS","Murari Power","Pune"
+"174","7520","Sakinaka TATA 1mG","1163","19.110825","72.886746","MPS","Murari Power","Mumbai"
+"175","7521","Gwalior","1102","26.22024809","78.19088512","Vishwas Electricals","Perfect Generator Technologies","Gwalior"
+"176","7522","Thane TATA 1mG","1163","19.201438","72.956588","MPS","Murari Power",
+"177","7523","Ghatkopar TATA 1mG","1163","19.08832","72.89615","MPS","Murari Power","Mumbai"
+"178","7524","Andheri TATA 1mG","1163","19.121125","72.870082","MPS","Murari Power","Mumbai"
+"179","7525","Khandivali TATA 1mG","1163","19.197477","72.858756","MPS","Murari Power","Mumbai"
+"180","7526","Lower Parel TATA 1mG","1163","18.99655","72.819693","MPS","Murari Power","Mumbai"
+"181","7527","Rural Hospital, Murud","1186","18.3319","72.9608","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"182","7528","Sub District Hospital, Ghanangvi, Jalna","1186","19.846811","75.890633","OGP Sub District Hospital","United Gensets Pvt Ltd","Jalna"
+"183","7530","Farukh Nagar DG","1188","0","0","Nestle","GSP Power Projects",
+"184","7531","T Nagar Curefood","1163","13.041809","80.236831","MPS","Murari Power","Chennai"
+"185","7532","Peenya TATA 1mG","1163","13.021755","77.526841","MPS","Murari Power","Bengaluru"
+"186","7533","RMS GZB","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"187","7534","RMS GZB2","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"188","7535","Gail gandhar DG 03","1077","21.8864","72.658","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"189","7537","Gail rahatpur DG 02","1077","21.7388","73.0382","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"190","7540","Gail divi DG 01","1077","21.6534","72.9887","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"191","7550","Jhansi","1190","25.45908164","78.55438841","Mr. Ashish Kumar (Jhansi)","Perfect Generator Technologies","Jhansi"
+"192","7551","Gail vanseta DG 04","1077","22.0251","72.7274","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"193","7553","Dr. Lal Path Labs Chandigarh","1191","30.75413358","76.78746507","Dr.lal Path Labs","Perfect Generator Technologies",
+"194","7554","15 KVA Big Tank","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"195","7555","160 KVA","1191","0","0","Dr.lal Path Labs","Perfect Generator Technologies",
+"196","7556","sandip poultry farm chalisgaon","1192","20.4619","75.0063","Sandip Poultry Farm","United Gensets Pvt Ltd",
+"197","7557","Dehli (04857)","1094","0","0","Grofers Farukh Nagar, Haryana","Perfect Generator Technologies",
+"198","7558","Mahadevapura TATA 1mG","1163","12.99895","77.70148","MPS","Murari Power","Bengaluru"
+"199","7559","RR Nagar TATA 1mG","1163","12.930858","77.506712","MPS","Murari Power","Bengaluru"
+"200","7560","BYJu's Ambedkar Road","1178","0","0","BYJU's","Perfect Generator Technologies",
+"201","7561","agra","1102","0","0","Vishwas Electricals","Perfect Generator Technologies",
+"202","7566","Office Demo 1 Faridabad","1197","28.469005","77.305357","TAFE Motors and Tractors Limited","Phoenix Robotix",
+"203","7567","JZB00555","1198","0","0","Demo Training","Ojus Power",
+"204","7568","TMTL Faridabad 125KVA","1199","28.46930532","77.30537654","TMTL Factory Site","TAFE Motors and Tractors Limited",
+"205","7569","Gurgaon","1200","28.79816356","77.03468281","Eat Fit","Perfect Generator Technologies",
+"206","7577","OGP GANGAPUR","1186","19.6975","75.0105","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"207","7578","Gurgaon-II","1200","0","0","Eat Fit","Perfect Generator Technologies",
+"208","7579","15 kVA Gas Generator","1205","18.72880016","73.80965365","Indus Towers","Mahindra Powerol",
+"209","7580","OGP JALNA","1186","19.8347","75.8816","OGP Sub District Hospital","United Gensets Pvt Ltd","Jalna"
+"210","7581","Wakhad Chaayos","1163","18.616003","73.76445","MPS","Murari Power",
+"211","7582","Farukhabad","1207","0","0","Malik Electricals","Perfect Generator Technologies",
+"212","7583","Kaushambi","1178","0","0","BYJU's","Perfect Generator Technologies",
+"213","7585","TMTL Patna Office","1199","25.62569526","85.11291898","TMTL Factory Site","TAFE Motors and Tractors Limited","Patna"
+"214","7590","Indian Oil Piparia","1208","26.614042","84.851534","Sri Balram Filling Station","TAFE Motors and Tractors Limited",
+"215","7591","529027827907 (Sisat, Siwan)","1209","26.185669","84.559915","Vardhan Petroleum","TAFE Motors and Tractors Limited",
+"216","7592","DG 1","1210","17.69355","83.30361","VCTPL ","Pai Kane Group","Visakhapatnam"
+"217","7593","DG-2","1210","17.69355","83.30361","VCTPL ","Pai Kane Group","Visakhapatnam"
+"218","7595","DG 3","1210","17.69354","83.3036","VCTPL ","Pai Kane Group","Visakhapatnam"
+"219","7596","DG-4","1210","17.69355","83.30361","VCTPL ","Pai Kane Group","Visakhapatnam"
+"220","7597","HTL DG-1","1211","12.7685","77.8005","HTL LTD","GMMCO","Hosur"
+"221","7598","HTL DG 2","1211","12.7685","77.8005","HTL LTD","GMMCO","Hosur"
+"222","7599","25021","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"223","7600","25024","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"224","7601","24837","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"225","7602","25032","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"226","7603","megapower DSE Shivapur","1176","18.34648","73.86304","Megapower Rental","Mega Power",
+"227","7607","Dehradun SBI ","1218","30.317162","78.038768","Tara Narula","Perfect Generator Technologies","Dehradun"
+"228","7608","KARUNA Dg-2","1215","13.098786","80.1660078","KARUNA CONQUEST IT PARK","GMMCO",
+"229","7609","KARUNA DG-1","1215","13.0986264","80.1659222","KARUNA CONQUEST IT PARK","GMMCO",
+"230","7610","KARUNA DG-3","1215","13.0986264","80.1659222","KARUNA CONQUEST IT PARK","GMMCO",
+"231","7612","Chandigarh (28/01/22)","1178","0","0","BYJU's","Perfect Generator Technologies",
+"232","7613","125 KVA Hyderabad","1218","0","0","Tara Narula","Perfect Generator Technologies",
+"233","7614","DG 2","1157","0","0","M/s Goodwill Enterprise/DEB Enterprise","Genset India",
+"234","7615","N3P21MT18910","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"235","7616","N3P21MT18909","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"236","7617","N3P21MT19073","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"237","7618","N3P21MT18912","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"238","7619","N2S21X19651","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"239","7620","N2S21X19652","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"240","7621","N2S21X19650","1220","0","0","LIC OF INDIA","Mahindra Powerol",
+"241","7622","DG 1","1219","20.3394432","76.939552","Sukhdev Earth Movers","Rai Power",
+"242","7626","Biju Classes","326","23.17403321","75.78691724","DG Demo","Sales Demo","Ujjain"
+"243","7627","Eat Fit Hotel","326","28.79816356","77.03468281","DG Demo","Sales Demo",
+"244","7628","Lime Restaurant","326","26.86881084","80.9983182","DG Demo","Sales Demo","Lucknow"
+"245","7629","Hospital","326","19.99056188","73.78017908","DG Demo","Sales Demo","Nashik"
+"246","7630","Warehouse","326","28.48199561","76.81257536","DG Demo","Sales Demo","Gurugram"
+"247","7631","Lower Parel ","326","18.99655","72.819693","DG Demo","Sales Demo","Mumbai"
+"248","7632","H-145 Noida","1222","0","0","Gyan International","Perfect Generator Technologies",
+"249","7633","site1","1223","0","0","Ability","Iobotech",
+"250","7634","CurryPot","326","13.041809","80.236831","DG Demo","Sales Demo","Chennai"
+"251","7635","RR Nagar TATA 1mG","326","12.930858","77.506712","DG Demo","Sales Demo","Bengaluru"
+"252","7636","Konark Cement","326","23.3699","85.32528","DG Demo","Sales Demo","Ranchi"
+"253","7638","Gail Dewas DG No. 5","1077","22.295876","72.817215","Bharti Engineering","Vijay Electric Power(I) Pvt Ltd",
+"254","7639","DCB BANK LTD","1157","85.144354","25.613759","M/s Goodwill Enterprise/DEB Enterprise","Genset India","NA"
+"255","7640","VE210134","1224","15.49643","73.82541","Mamagoto Panajim","Pai Kane Group","Panaji"
+"256","7641","TMTL Faridabad 45KVA","1199","28.469068","77.305397","TMTL Factory Site","TAFE Motors and Tractors Limited",
+"257","7642","JC_RENTAL_125_1","1225","15.547865","73.827013","JC ENGINEERS (SELF USE)","Pai Kane Group",
+"258","7643","Nepal customer site","1227","0","0","Nepal Customer","Jaycee Punching Solution",
+"259","7645","VE210127 DG 2 ","1228","15.58313","73.73745","Purple Martini _ Anjuna","Pai Kane Group",
+"260","7646","VE200087 DG 1","1228","15.58313","73.73745","Purple Martini _ Anjuna","Pai Kane Group",
+"261","7648","Castle and Temple Drive","1229","6.457633333","3.479193333","Madam Otti","Eonsfleet Prosolutions Ltd.",
+"262","7653","VE210162","1233","15.5361","73.76017","Resort Terra Paraiso","Pai Kane Group",
+"263","7654","Sun Villas DG-1","1193","13.065001","77.74779","G R SUN VILLA ","Dishaa Power",
+"264","7655","Sun Villas DG-2","1193","13.065001","77.7477","G R SUN VILLA ","Dishaa Power",
+"265","7656","Mahesh Test","1234","0","0","Datoms All Apps Internal Testing","Phoenix Robotix",
+"266","7663","Baner - Curefood","1163","18.59082","73.74158","MPS","Murari Power",
+"267","7664","Wakad - Curefood","1163","18.56884","73.77173","MPS","Murari Power","Pune"
+"268","7665","Vasai - Chaayos","1163","19.40858","72.83949","MPS","Murari Power","Vasai - Virar"
+"269","7669","Velachery - Curefood","1163","12.98272","80.21823","MPS","Murari Power",
+"270","7673","Ghatkopar II - TATA 1mG","1163","19.08825","72.89613","MPS","Murari Power","Mumbai"
+"271","7697","General Hospital malvani malad","1186","19.1858","72.8191","OGP Sub District Hospital","United Gensets Pvt Ltd","Mumbai"
+"272","7699","sujal demo ranoli","1239","0","0","Sujal Demo","Sujal Enterprise",
+"273","7700","dhayna hospital","1241","0","0","Demo Customer Nayosha ","Nayosha Enterprise",
+"274","7701","Gorakhpur-1 (25448)","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"275","7702","Gorakhpur-2 (23701)","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"276","7703","CHANDIGARH","1218","0","0","Tara Narula","Perfect Generator Technologies",
+"277","7709","Rishab Engg. Demo","1243","28.694581","77.439685","Rishab Engg. Demo","Rishabh Engineering","Ghaziabad"
+"278","7710","DG Set 1","1244","30.342723","76.88088","Shree Vardhman Enterprises","Sunrise Power Technologies",
+"279","7711","MGMF8088S01071G","1245","18.61378308","73.7674943","Shree Sonigara Realcon","Mahindra Powerol",
+"280","7712","JGAF8089S00490G","1246","19.0479656","72.87468924","K J SOMIYA HOSPITAL & RESEARCH CENTER","Mahindra Powerol","Mumbai"
+"281","7713","KELZM00720","1247","18.62547762","73.83474304","Divgi TorqeTransfer Systems","Mahindra Powerol","Pimpri-Chinchwad"
+"282","7714","AAMZD12655","1248","18.62551508","73.83327974","AUTO STEEL AND RUBBER","Mahindra Powerol","Pimpri-Chinchwad"
+"283","7715","AAMZC12009","1248","18.62592176","73.83366598","AUTO STEEL AND RUBBER","Mahindra Powerol","Pimpri-Chinchwad"
+"284","7716","41067 - Anchepalya","1163","13.05576","77.48006","MPS","Murari Power",
+"285","7726","40978 - Dasanpura","1163","13.07531","77.43532","MPS","Murari Power",
+"286","7727","40893-SBI kadabagere cross","1163","12.9895","77.4499","MPS","Murari Power","Bengaluru"
+"287","7729","Ambala","1254","0","0","Healthians","Perfect Generator Technologies",
+"288","7742","7981 - Padmanbhanagar","1163","12.91386","77.55926","MPS","Murari Power","Bengaluru"
+"289","7743","40215 - Kanakapura Main Road Branch","1163","12.9286","77.57694","MPS","Murari Power","Bengaluru"
+"290","7744","Civil Hospital Akot","1186","0","0","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"291","7745","Civil Hospital Telhara","1186","0","0","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"292","7746","Ramgarh DG 50 KVA","1253","23.656658","85.491953","Solar Group","Phoenix Robotix",
+"293","7747","Ramgarh DG 100 KVA","1253","23.656658","85.491953","Solar Group","Phoenix Robotix",
+"294","7748","40292 - Sajjan Rao Circle","1163","12.95254","77.57639","MPS","Murari Power","Bengaluru"
+"295","7753","mega demo Manjari","1176","0","0","Megapower Rental","Mega Power",
+"296","7754","DG-1 750kva","1257","0","0","Titan Hosur","TITAN COMPANY LIMITED",
+"297","7758","KCLZG00513","1259","28.599","77.217","Delhi Guest House Pvt Ltd","Mahindra Powerol","New Delhi"
+"298","7759","N2K20X04364","1255","22.19151","73.09615","Khodiyar Petroleum","Mahindra Powerol",
+"299","7760","SELL INDIA RANCH","1258","23.33286","85.300535","SELL INDIA (RANCHI)","Genset India",
+"300","7762","KCMZD00890","1261","17.4675745","78.3694677","CREATIVE KOVEN DEVELOPERS LLP","Mahindra Powerol","Hyderabad"
+"301","7763","KCMZF00940","1261","17.4675745","78.3694677","CREATIVE KOVEN DEVELOPERS LLP","Mahindra Powerol","Hyderabad"
+"302","7764","KCMZF00976","1261","17.4675745","78.3694677","CREATIVE KOVEN DEVELOPERS LLP","Mahindra Powerol","Hyderabad"
+"303","7765","KCMZF00975","1261","17.4675745","78.3694677","CREATIVE KOVEN DEVELOPERS LLP","Mahindra Powerol","Hyderabad"
+"304","7767","KCMZC00845","1261","17.4675745","78.3694677","CREATIVE KOVEN DEVELOPERS LLP","Mahindra Powerol","Hyderabad"
+"305","7768","MGBF8088S00609F","1262","19.27250945","72.96296746","Vedant Hospital","Mahindra Powerol",
+"306","7769","JGAF8089S00185E","1263","13.225615","80.168352","PA FOOTWEAR PRIVATE LIMITED","Mahindra Powerol",
+"307","7770","KEMZE00903","1264","23.02947615","72.2822764","BHAVANI INDUSTRIES","Mahindra Powerol",
+"308","7771","MGBF8088S00592F","1265","12.8093222","77.6617899","MAHINDRA ELECTRIC MOBILITY LIMITED","Mahindra Powerol",
+"309","7773","KEMZK01184","1266","73.69278337","18.58163756","Sanas Developers Pvt Ltd, Pune","Mahindra Powerol","NA"
+"310","7775","KEMZC00857","1267","23.04164","72.56507","GOKUL REFOILS PVT LTD","Mahindra Powerol","Ahmedabad"
+"311","7776","DCB BANK LTD","1157","85.061152","24.799364","M/s Goodwill Enterprise/DEB Enterprise","Genset India","NA"
+"312","7777","Magarphatta - Curefood","1163","18.498202","73.921398","MPS","Murari Power","Pune"
+"313","7780","FYLZG11683","1268","12.726124","80.017386","The Lincoln Electric Company (India) Private Limited","Mahindra Powerol",
+"314","7781","MGBF8088S00613F","1269","13.010569","79.993977","HITSS Plastico Painting","Mahindra Powerol",
+"315","7782","KCKZL00330","1270","10.0774313","76.3077737","Parakkal Industries","Mahindra Powerol",
+"316","7783","NWLZG11499","1271","10.970777","76.853345","ISHA LIFE PRIVATE LIMITED","Mahindra Powerol",
+"317","7784","KELZK00642","1273","10.9870825","77.2293346","SEYON SACKS","Mahindra Powerol",
+"318","7785","Cummins PSO 600","1272","0","0","A K Enterprises","Phoenix Robotix",
+"319","7786","NWKZM19531","1276","9.8601711","76.3349547","TRINE HOLDINGS  (MAHINDRA HOLIDAYS & RESORTS INDIA LTD)","Mahindra Powerol",
+"320","7787","TGDF8002N09350E","1276","9.8601711","76.3349547","TRINE HOLDINGS  (MAHINDRA HOLIDAYS & RESORTS INDIA LTD)","Mahindra Powerol",
+"321","7788","62.5 kva","1157","0","0","M/s Goodwill Enterprise/DEB Enterprise","Genset India",
+"322","7789","N4P20M07844","1277","10.943219","76","Brown ARC Enterprises Pvt Ltd","Mahindra Powerol","Puthanathani"
+"323","7790","KAKZD00140","1278","10.9888009","79.2898992","Sri Ganapathy Fly Ash Bricks","Mahindra Powerol",
+"324","7791","MGBF8088S00821G","1274","76.3596266","15.1332036","SWASTIK STEEL HOSPET PVT LTD","Mahindra Powerol","NA"
+"325","7796","MGBF8088S00745F","1275","76.3597736","15.0893743","SAIVIJAY PRAGATI STEEL UDYOG PRIVATE LIMITED","Mahindra Powerol","NA"
+"326","7797","DG-1 pcc1302","1281","13.1533465","77.6608978","Sahni Traders","Phoenix Robotix",
+"327","7798","KCMZH01046","1282","22.53423","70.76647","DARSHAN INSTITUTE OF ENGG AND TECHNOLOGY","Mahindra Powerol",
+"328","7799","40195 - Shankarpuram","1163","12.95138","77.56882","MPS","Murari Power","Bengaluru"
+"329","7801","KEMZF00954","1284","21.67575","73.14701","Champion Advanced Materials Pvt Ltd","Mahindra Powerol",
+"330","7802","60133 - Mission Road","1163","12.9633","77.58907","MPS","Murari Power","Bengaluru"
+"331","7803","Mauli Garden","1285","18.63034022","73.64374121","Cooper Demo Installations","Cooper Corporation  Pvt. Limited",
+"332","7804","MGBF8088S00593F,MGBF8088S00551E","1286","76.3868298","15.2799243","MEGHA ENGINEERING And INFRASTRUCTURES LIMITED","Mahindra Powerol","NA"
+"333","7805","40374 - Langford Town","1163","12.95816","77.60538","MPS","Murari Power","Bengaluru"
+"334","7806","AALZB10939","1287","21.87415","73.06282","BHRUGU FOODS LLP","Mahindra Powerol",
+"335","7807","16213 - Jakkasandra","1163","12.92758","77.62145","MPS","Murari Power","Bengaluru"
+"336","7817","Factory Site Demo","1289","28.994279","79.441763","CSH Power Factory Site","CSH Power Himoinsa Private Ltd","Rudrapur"
+"337","7818","KCLZF00499","1290","10.460148","76.258218","BRD CAR WORLD","Mahindra Powerol","Thrissur"
+"338","7819","N4E21HK03823","1291","19.57444648","74.20894839","Sachdev Sonography And X Ray Centre","Mahindra Powerol",
+"339","7821","KCLZK00631","1292","19.15523556","72.92999768","Sai Sastha Crystal Mumbai","Mahindra Powerol","Mumbai"
+"340","7822","MGBF8088S00968G","1293","19.15775002","73.24291241","Indo Amines Ltd, Badlapur","Mahindra Powerol","Kulgaon Badlapur"
+"341","7823","KAJZJ00238","1294","23.47921","87.453717","Supreme Power System","Mahindra Powerol",
+"342","7824","DCB BANK LTD,Bihar","1157","83.603881","25.03779","M/s Goodwill Enterprise/DEB Enterprise","Genset India","NA"
+"343","7825","DCB BANK LTD,Bihar,KADJAR","1157","87.476714","25.802426","M/s Goodwill Enterprise/DEB Enterprise","Genset India","NA"
+"344","7826","Mahima Life science DG1","1295","29.136369","77.018208","Mahima Life Sciences","Phoenix Robotix",
+"345","7827","E210169","1296","16.691174","74.242788","Vinay","Pai Kane Group","Kolhapur"
+"346","7828","71247 - Doddnagamangala","1163","12.86266","77.67537","MPS","Murari Power","Bengaluru"
+"347","7829","CPWD, Noida","1058","0","0","Perfect Generator Technologies Pvt Ltd","Perfect Generator Technologies",
+"348","7830","41193 - Nagnathpura","1163","12.87422","77.66741","MPS","Murari Power","Bengaluru"
+"349","7831","KELZC00462","1297","22.572697","88.353278","OFFICE OF THE COMMISSIONER OF KOLKATA POLICE","Mahindra Powerol","Kolkata"
+"350","7832","DGS500-010","1298","-26.16195","28.20918","Test 1 GPH","Generator And Plant Hire (SA) Pty Ltd",
+"351","7833","10514 - Hosur Main Road","1163","12.86824","77.65513","MPS","Murari Power","Bengaluru"
+"352","7834","KCMZE00924","1299","22.314041","88.661344","CANNING SUB DIVISIONAL HOSPITAL","Mahindra Powerol",
+"353","7835","TGDF8002N08007D","1302","23.917292","87.469717","Sandip Construction","Mahindra Powerol","Siuri"
+"354","7836","12662 - Hongasandra","1163","12.88684","77.62557","MPS","Murari Power","Bengaluru"
+"355","7838","17650 - Doddkalasandra","1163","12.88629","77.55706","MPS","Murari Power","Bengaluru"
+"356","7839","N3H21AT06872","1303","27.8262021","73.2036167"," Mamta Engineering Corporation","Mahindra Powerol",
+"357","7840","40622 - Puttenahally","1163","12.88837","77.58005","MPS","Murari Power","Bengaluru"
+"358","7841","21968 - JP Nagar 8th Phase","1163","12.86552","77.58016","MPS","Murari Power","Bengaluru"
+"359","7842","Civil Hospital Kannad","1186","20.265217","75.133972","OGP Sub District Hospital","United Gensets Pvt Ltd",
+"360","7843","CIVIL HOSPITAL AMBAD","1186","19.952959","73.737518","OGP Sub District Hospital","United Gensets Pvt Ltd","Nashik"
+"361","7844","CIVIL HOSPITAL MALVANI MALAD","1186","19.188056","72.815665","OGP Sub District Hospital","United Gensets Pvt Ltd","Mumbai"
+"362","7845","KCMZH01023","1304","22.936777","76.007771","Shri Amba Forge Pvt Ltd","Mahindra Powerol","Dewas"
+"363","7846","20633 - Jayanagar 5th Block","1163","12.91801","77.58586","MPS","Murari Power","Bengaluru"
+"364","7847","KELZE00487","1305","23.401738","85.363515","FREYA HEALTHCARE SERVICES PRIVATE LIMITED","Mahindra Powerol","Ranchi"
+"365","7848","dg2","1298","0","0","Test 1 GPH","Generator And Plant Hire (SA) Pty Ltd",
+"366","7851","KEMZC00855","1279","17.452627","78.3672664","Manbhum Constructions Pvt Ltd","Mahindra Powerol","Hyderabad"
+"367","7852","KEMZB00810","1279","17.4525942","78.3672664","Manbhum Constructions Pvt Ltd","Mahindra Powerol","Hyderabad"
+"368","7853","40269 - Jayanagar SMC","1163","12.92623","77.58325","MPS","Murari Power","Bengaluru"
+"369","7855","KEMZD00893","1306","29.469241","77.707345","SUNNY RETAIL ENTERPRISES(More Shop)","Mahindra Powerol","Muzaffarnagar"
+"370","7857","KEMZA00764","1307","21.494295","86.935255","Executive Engineer R B Division","Mahindra Powerol",
+"371","7858","CAT Mantrac VI","1308","6.42432","3.4276","Mantrac Nigeria Ltd.","Eonsfleet Prosolutions Ltd.",
+"372","7859","Jhandewalaan, New delhi","1058","0","0","Perfect Generator Technologies Pvt Ltd","Perfect Generator Technologies",
+"373","7860","Mahadevapura II - TATA 1mG","1163","12.99895","77.70135","MPS","Murari Power","Bengaluru"
+"374","7861","V K Enterprises Gurugram","1309","28.448189","77.000042","M/s V.K.ENTERPRISES Gurugram","GSP Power Projects","Gurugram"
+"375","7862","KCLZH00564","1310","29.931096","77.820914","GAWAR CONSTRUCTION LTD(Welspon)","Mahindra Powerol",
+"376","7863","KCLZG00534","1312","30.040891","77.387873","GAWAR CONSTRUCTION LTD(Welspun)","Mahindra Powerol",
+"377","7864","Malhotra & Tyagi Associates Gurugram sector 39","1311","28.438185","77.04567","Malhotra & Tyagi Associates","GSP Power Projects","Gurugram"
+"378","7865","N2P20X08597","1313","26.9897638","77.5904178","Anoop Kumar Goyal","Mahindra Powerol",
+"379","7866","DELHIVERY DEG-1 gc315","1281","12.959484","77.8215834","Sahni Traders","Phoenix Robotix",
+"380","7867","RMS(26517)","1119","0","0","Sumit Juneja","Perfect Generator Technologies",
+"381","7868","Royborasmber odisa","1157","0","0","M/s Goodwill Enterprise/DEB Enterprise","Genset India",
+"382","7869","41206 - Subhashnagar","1163","13.02292","77.696","MPS","Murari Power","Bengaluru"
+"383","7870","cummins 500 kva DG NO.53","1171","0","0","Maruti","Maruti Hiring",
+"384","7875","Shubham Engineering 200KVA","1314","28.378679","77.25534","Shubham Engineering Faridabad","GSP Power Projects",
+"385","7881","4563240","1315","0","0","Adamco Power","Ojus Power",
+"386","7882","a654re32","1315","0","0","Adamco Power","Ojus Power",
+"387","7883","FF Startup IoN Digital","1316","30.309571","76.84088","FF Startup ","Kohler Power India",
+"388","7884","MDI Ambala 320KVA","1317","0","0","MDI Ambala","Kohler Power India",
+"389","7885","KCMZK01141","1318","22.396254","87.495523","Madhusudan Rice Mill Pvt Ltd","Mahindra Powerol",
+"390","7886","KCLZJ00576","1319","27.922943","78.030485","Abha Grand Hotel","Mahindra Powerol","Aligarh"
+"391","7888","45kva factory","1157","0","0","M/s Goodwill Enterprise/DEB Enterprise","Genset India",
+"392","7889","TGDF8110S00140G","1320","20.262962","85.750322","TRIDENT PROPERTIES PVT LTD","Mahindra Powerol",
+"393","7890","Rishab Engg.Demo2","1243","0","0","Rishab Engg. Demo","Rishabh Engineering",
+"394","7892","CAT Mantrac Headquarters Training School","1308","6.604653333","3.368781667","Mantrac Nigeria Ltd.","Eonsfleet Prosolutions Ltd.","Ikeja"
+"395","7893","Ambedkar road (Byju's)","1200","0","0","Eat Fit","Perfect Generator Technologies",
+"396","7894","MGBF8088S00820G","1321","0","0","SHIUMA PROCESS EQUIPMENTS PVT LTD","Mahindra Powerol",
+"397","7895","KCKZL00325","1322","20.303451","85.82398","INSTITUTE OF CHEMICAL TECHNOLOGY ","Mahindra Powerol","Bhubaneswar"
+"398","7896","Jumbotail Technologies Pvt Ltd","1323","25.586135","85.03519","Sheetal Generators","GSP Power Projects",
+"399","7898","KCNZB01341","1324","0","0","U P State Construction N Infra Development Corp Lt","Mahindra Powerol",
+"400","7899","MGBF8088S00850G","1325","26.159259","91.811432","Pratiksha By Coras","Mahindra Powerol",
+"401","7900","dg 1 ka51mn4773","1156","0","0","Ashik Mobile Generators","Ojus Power",
+"402","7901","MGBF8088S00971G","1325","26.159259","91.811432","Pratiksha By Coras","Mahindra Powerol",
+"403","7902","62.5 KVA Delhi","1218","0","0","Tara Narula","Perfect Generator Technologies",
+"404","7903","N3P20AT08694","1303","28.7046173","72.5937718"," Mamta Engineering Corporation","Mahindra Powerol",
+"405","7904","KCMZA00790","1326","18.73203783","76.37171077","Swami Ramanand Teerth Medical College Ambajogai","Mahindra Powerol",
+"406","7905","APM303 TEST","1298","0","0","Test 1 GPH","Generator And Plant Hire (SA) Pty Ltd",
+"407","7906","cummins 500 KVA DG NO.54","1171","0","0","Maruti","Maruti Hiring",
+"408","7907","TGDF8110S00119F","1327","17.7267717","83.2997475","SAI MANASA CONTRUCTIONS","Mahindra Powerol","Visakhapatnam"
+"409","7908","TGDF8110S00118F","1327","17.7267717","83.2997475","SAI MANASA CONTRUCTIONS","Mahindra Powerol","Visakhapatnam"
+"410","7909"," KELZL00692","1327","17.7267717","83.2997475","SAI MANASA CONTRUCTIONS","Mahindra Powerol","Visakhapatnam"
+"411","7910","MGBF8088S00591F","1328","18.3044099","83.8769274","Sahrudhya Healthcare Srikakulam Pvt Ltd ","Mahindra Powerol","Srikakulam"
+"412","7911","MGBF8088S00611F","1328","18.3044099","83.8769274","Sahrudhya Healthcare Srikakulam Pvt Ltd ","Mahindra Powerol","Srikakulam"
+"413","7912","KELZC00479","1329","31.3787","75.6219","RMX INDUSTRIES","Mahindra Powerol","Jalandhar"
+"414","7913","ARIHANT PUNE","1330","18.5112835","73.8362284","Tata Communications Ltd","Mahindra Powerol","Pune"
+"415","7916","KCNZA01322","1331","30.900102","75.878697","PRITAM SCIENTIFIC DYERS","Mahindra Powerol","Ludhiana"
+"416","7917","KCLZL00681","1332","30.89375562","75.9088537","HARSH HYDRAULIC INDUSTRIES","Mahindra Powerol","Ludhiana"
+"417","7919","NWMZH13845","1333","31.313539","75.578814","MAX SHOWROOM","Mahindra Powerol","Jalandhar"
+"418","7920","Sahibabad","1159","0","0","Jeevan Sir","Perfect Generator Technologies",
+"419","7921","Sterling 82.5","1334","21.494204","83.962659","Green Solution & Services","Phoenix Robotix","Sambalpur"
+"420","7925","Autopower Demo DG","1336","18.7552","73.4445","Autopower Gensets","Phoenix Robotix",
+"421","7927","45kva factory 1","1157","0","0","M/s Goodwill Enterprise/DEB Enterprise","Genset India",
+"422","7928","KEMZA00767","1337","30.8625279","75.91674055","RADIANT COMPONENTS PVT LTD","Mahindra Powerol",
+"423","7929","MDI Ambala Kohler 520KVA","1317","0","0","MDI Ambala","Kohler Power India",
+"424","7931","Ripplesoft testing and assessment services Campus 2","1338","21.530118","84.017947","Ripplesoft Testing & Assessment Servic","Phoenix Robotix",
+"425","7932","3385/25TP","1058","0","0","Perfect Generator Technologies Pvt Ltd","Perfect Generator Technologies",
